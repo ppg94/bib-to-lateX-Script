@@ -1,0 +1,183 @@
+\begin{thebibliography}{99}
+
+\bibitem{porpiglia2020three}
+F. Porpiglia and E. Checcucci and D. Amparore and F. Piramide and G. Volpi and S. Granato and P. Verri and M. Manfredi and A. Bellin and P. Piazzolla,
+``Three-dimensional augmented reality robot-assisted partial nephrectomy in case of complex tumours (PADUA>= 10): a new intraoperative tool overcoming the ultrasound guidance,''
+in \emph{European urology}, vol. 78, no. 2, pp. 229--238, Elsevier, 2020.
+
+\bibitem{reinschluessel2022virtual}
+A.V. Reinschluessel and T. Muender and D. Salzmann and T. Doering and R. Malaka and D. Weyhe,
+``Virtual reality for surgical planning--evaluation based on two liver tumor resections,''
+in \emph{Frontiers in Surgery}, vol. 9, pp. 821060, Frontiers Media SA, 2022.
+
+\bibitem{xu2022self}
+L. Xu and T. Guan and Y. Wang and Y. Luo and Z. Chen and W. Liu and W. Yang,
+``Self-supervised multi-view stereo via adjacent geometry guided volume completion,''
+in \emph{Proceedings of the 30th acm international conference on multimedia}, pp. 2202--2210, 2022.
+
+\bibitem{hamdi2021mvtn}
+A. Hamdi and S. Giancola and B. Ghanem,
+``Mvtn: Multi-view transformation network for 3d shape recognition,''
+in \emph{Proceedings of the IEEE/CVF international conference on computer vision}, pp. 1--11, 2021.
+
+\bibitem{WANG2024105600}
+T. Wang and V.J. Gan,
+``Enhancing 3D reconstruction of textureless indoor scenes with IndoReal multi-view stereo (MVS),''
+in \emph{Automation in Construction}, vol. 166, pp. 105600, 2024.
+
+\bibitem{9484777}
+X. Pan and J. Yao and H. Kou and T. Wu and C. Xiao,
+``HarmonicNeRF: Geometry-informed synthetic view augmentation for 3D scene reconstruction in driving scenarios,''
+in \emph{IEEE Robotics and Automation Letters}, vol. 6, no. 4, pp. 5987--5996, 2024.
+
+\bibitem{10.1145/3588432.3591483}
+T. Wu and J. Sun and Y. Lai and L. Gao,
+``DE-NeRF: DEcoupled Neural Radiance Fields for View-Consistent Appearance Editing and High-Frequency Environmental Relighting,''
+in \emph{ACM SIGGRAPH 2023 Conference Proceedings}, Association for Computing Machinery, 2023.
+
+\bibitem{gao2024relightable}
+J. Gao and C. Gu and Y. Lin and Z. Li and H. Zhu and X. Cao and L. Zhang and Y. Yao,
+``Relightable 3d gaussians: Realistic point cloud relighting with brdf decomposition and ray tracing,''
+in \emph{European Conference on Computer Vision}, pp. 73--89, 2024.
+
+\bibitem{reiser2024binary}
+C. Reiser and S. Garbin and P. Srinivasan and D. Verbin and R. Szeliski and B. Mildenhall and J. Barron and P. Hedman and A. Geiger,
+``Binary opacity grids: Capturing fine geometric detail for mesh-based view synthesis,''
+in \emph{ACM Transactions on Graphics (TOG)}, vol. 43, no. 4, pp. 1--14, ACM New York, NY, USA, 2024.
+
+\bibitem{li2023neuralangelo}
+Z. Li and M\"u,
+``Neuralangelo: High-fidelity neural surface reconstruction,''
+in \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp. 8456--8465, 2023.
+
+\bibitem{niemeyer2022regnerf}
+M. Niemeyer and J.T. Barron and B. Mildenhall and M.S. Sajjadi and A. Geiger and N. Radwan,
+``Regnerf: Regularizing neural radiance fields for view synthesis from sparse inputs,''
+in \emph{Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pp. 5480--5490, 2022.
+
+\bibitem{yang2023freenerf}
+J. Yang and M. Pavone and Y. Wang,
+``Freenerf: Improving few-shot neural rendering with free frequency regularization,''
+in \emph{Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pp. 8254--8263, 2023.
+
+\bibitem{chen2024vcr}
+H. Chen and F. Wei and C. Li and T. Huang and Y. Wang and G.H. Lee,
+``Vcr-gaus: View consistent depth-normal regularizer for gaussian surface reconstruction,''
+in \emph{Advances in Neural Information Processing Systems}, vol. 37, pp. 139725--139750, 2024.
+
+\bibitem{yariv2020multiview}
+L. Yariv and Y. Kasten and D. Moran and M. Galun and M. Atzmon and B. Ronen and Y. Lipman,
+``Multiview neural surface reconstruction by disentangling geometry and appearance,''
+in \emph{Advances in Neural Information Processing Systems}, vol. 33, pp. 2492--2502, 2020.
+
+\bibitem{azinovic2022neural}
+Azinovi\'c,
+``Neural rgb-d surface reconstruction,''
+in \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp. 6290--6301, 2022.
+
+\bibitem{wang2021neus}
+P. Wang and L. Liu and Y. Liu and C. Theobalt and T. Komura and W. Wang,
+``NeuS: learning neural implicit surfaces by volume rendering for multi-view reconstruction,''
+in \emph{Proceedings of the 35th International Conference on Neural Information Processing Systems}, pp. 27171--27183, 2021.
+
+\bibitem{li2024tensosdf}
+J. Li and L. Wang and L. Zhang and B. Wang,
+``Tensosdf: Roughness-aware tensorial representation for robust geometry and material reconstruction,''
+in \emph{ACM Transactions on Graphics (TOG)}, vol. 43, no. 4, pp. 1--13, ACM New York, NY, USA, 2024.
+
+\bibitem{zha2023endosurf}
+R. Zha and X. Cheng and H. Li and M. Harandi and Z. Ge,
+``Endosurf: Neural surface reconstruction of deformable tissues with stereo endoscope videos,''
+in \emph{International conference on medical image computing and computer-assisted intervention}, pp. 13--23, 2023.
+
+\bibitem{xu2024gsurf}
+B. Xu and J. Hu and J. Li and Y. He,
+``GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision,''
+in \emph{arXiv preprint arXiv:2411.15723}, 2024.
+
+\bibitem{huang20242d}
+B. Huang and Z. Yu and A. Chen and A. Geiger and S. Gao,
+``2d gaussian splatting for geometrically accurate radiance fields,''
+in \emph{ACM SIGGRAPH 2024 conference papers}, pp. 1--11, 2024.
+
+\bibitem{huang2023neural}
+J. Huang and Z. Gojcic and M. Atzmon and O. Litany and S. Fidler and F. Williams,
+``Neural kernel surface reconstruction,''
+in \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp. 4369--4379, 2023.
+
+\bibitem{nimier2019mitsuba}
+M. Nimier-David and D. Vicini and T. Zeltner and W. Jakob,
+``Mitsuba 2: A retargetable forward and inverse renderer,''
+in \emph{ACM Transactions on Graphics (ToG)}, vol. 38, no. 6, pp. 1--17, ACM New York, NY, USA, 2019.
+
+\bibitem{garces2022survey}
+E. Garces and C. Rodriguez-Pardo and D. Casas and J. Lopez-Moreno,
+``A survey on intrinsic images: Delving deep into lambert and beyond,''
+in \emph{International Journal of Computer Vision}, vol. 130, no. 3, pp. 836--868, Springer, 2022.
+
+\bibitem{mildenhall2021nerf}
+B. Mildenhall and P.P. Srinivasan and M. Tancik and J.T. Barron and R. Ramamoorthi and R. Ng,
+``Nerf: Representing scenes as neural radiance fields for view synthesis,''
+in \emph{Communications of the ACM}, vol. 65, no. 1, pp. 99--106, ACM New York, NY, USA, 2021.
+
+\bibitem{kerbl20233d}
+B. Kerbl and G. Kopanas and Leimk\"u,
+``3d gaussian splatting for real-time radiance field rendering.,''
+in \emph{ACM Trans. Graph.}, vol. 42, no. 4, pp. 139--1, 2023.
+
+\bibitem{verbin2022ref}
+D. Verbin and P. Hedman and B. Mildenhall and T. Zickler and J.T. Barron and P.P. Srinivasan,
+``Ref-nerf: Structured view-dependent appearance for neural radiance fields,''
+in \emph{2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, pp. 5481--5490, 2022.
+
+\bibitem{yao2022neilf}
+Y. Yao and J. Zhang and J. Liu and Y. Qu and T. Fang and D. McKinnon and Y. Tsin and L. Quan,
+``Neilf: Neural incident light field for physically-based material estimation,''
+in \emph{European conference on computer vision}, pp. 700--716, 2022.
+
+\bibitem{liu2023nero}
+Y. Liu and P. Wang and C. Lin and X. Long and J. Wang and L. Liu and T. Komura and W. Wang,
+``Nero: Neural geometry and brdf reconstruction of reflective objects from multiview images,''
+in \emph{ACM Transactions on Graphics (ToG)}, vol. 42, no. 4, pp. 1--22, ACM New York, NY, USA, 2023.
+
+\bibitem{ye2024geosplatting}
+K. Ye and C. Gao and G. Li and W. Chen and B. Chen,
+``GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering,''
+in \emph{arXiv preprint arXiv:2410.24204}, 2024.
+
+\bibitem{ye20243d}
+K. Ye and Q. Hou and K. Zhou,
+``3d gaussian splatting with deferred reflection,''
+in \emph{ACM SIGGRAPH 2024 Conference Papers}, pp. 1--10, 2024.
+
+\bibitem{yang2024spec}
+Z. Yang and X. Gao and Y. Sun and Y. Huang and X. Lyu and W. Zhou and S. Jiao and X. Qi and X. Jin,
+``Spec-gaussian: Anisotropic view-dependent appearance for 3d gaussian splatting,''
+in \emph{Advances in Neural Information Processing Systems}, vol. 37, pp. 61192--61216, 2024.
+
+\bibitem{liu2024mirrorgaussian}
+J. Liu and X. Tang and F. Cheng and R. Yang and Z. Li and J. Liu and Y. Huang and J. Lin and S. Liu and X. Wu,
+``Mirrorgaussian: Reflecting 3d gaussians for reconstructing mirror reflections,''
+in \emph{European Conference on Computer Vision}, pp. 377--393, 2024.
+
+\bibitem{jiang2024gaussianshader}
+Y. Jiang and J. Tu and Y. Liu and X. Gao and X. Long and W. Wang and Y. Ma,
+``Gaussianshader: 3d gaussian splatting with shading functions for reflective surfaces,''
+in \emph{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp. 5322--5332, 2024.
+
+\bibitem{shi2023gir}
+Y. Shi and Y. Wu and C. Wu and X. Liu and C. Zhao and H. Feng and J. Zhang and B. Zhou and E. Ding and J. Wang,
+``Gir: 3d gaussian inverse rendering for relightable scene factorization,''
+in \emph{arXiv preprint arXiv:2312.05133}, 2023.
+
+\bibitem{wu2024gani}
+J. Wu and S. Hadadan and G. Lin and M. Zwicker and D. Jacobs and R. Sengupta,
+``GaNI: Global and Near Field Illumination Aware Neural Inverse Rendering,''
+in \emph{arXiv preprint arXiv:2403.15651}, 2024.
+
+\bibitem{fan2024spectromotion}
+C. Fan and C. Chang and Y. Liu and J. Lee and J. Huang and Y. Tseng and Y. Liu,
+``SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes,''
+in \emph{arXiv preprint arXiv:2410.17249}, 2024.
+
+\end{thebibliography}
